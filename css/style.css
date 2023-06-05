@@ -535,3 +535,15 @@ footer{
 .scactive{
     opacity: 1;
 }
+
+.imgSecpr{
+    width: 100%;
+    height: 160px;
+    display: grid;
+    place-items: center;
+}
+.imgSecpr img{
+    width: 600px;
+    height: 100%;
+    margin: 0 auto;
+}
